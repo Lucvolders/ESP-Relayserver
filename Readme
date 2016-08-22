@@ -1,4 +1,4 @@
-ESP8266 Relay server
+# ESP8266 Relay server
 
 A LUA program to command a relay on or off but with the 
 possibility of a manual override.
