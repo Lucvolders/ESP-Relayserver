@@ -1,0 +1,10 @@
+ESP8266 Relay server
+
+A LUA program to command a relay on or off but with the 
+possibility of a manual override.
+
+Included are the STL files for printing your own casing.
+
+Software by: Luc Volders
+
+For complete details and Schematics http://lucstechblog.blogspot.nl/
